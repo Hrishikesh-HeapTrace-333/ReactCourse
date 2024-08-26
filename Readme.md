@@ -1,5 +1,2 @@
 # REACT COURSE
-      hrishikesh kalekinge
-
-## Demo video
-      
+      hrishikesh kalekinge : main
